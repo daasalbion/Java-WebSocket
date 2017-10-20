@@ -1,3 +1,5 @@
+package org.java_websocket.example;
+
 /*
  * Copyright (c) 2010-2017 Nathan Rajlich
  *
